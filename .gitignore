@@ -1,2 +1,4 @@
-.idea/*
-node_modules/*
+maps/.cache/*
+maps/.idea/*
+maps/dist/*
+maps/node_modules/*
